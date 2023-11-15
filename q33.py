@@ -1,0 +1,5 @@
+a = int(input("quantas horas: "))
+b = float(input("velocidade media da viagem: "))
+c = (b * a)
+d = (c / 12)
+print(d)

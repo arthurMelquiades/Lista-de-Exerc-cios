@@ -1,0 +1,6 @@
+nome = input("seu nome: ")
+salariofixo = float(input("seu salario fixo: "))
+totaldevendas = float(input("seu total de vendas: "))
+calculo = (totaldevendas * 15/100)
+total = (salariofixo + calculo)
+print("TOTAL =",total)
